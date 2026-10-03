@@ -1,0 +1,23 @@
+# ninja log v5
+96	313	8112823957302176	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	af9e72be1bf701bb
+14	1404	8112823968161368	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c54277f5b5f2ec55
+314	646	8112823960426454	D:/AgentUnityProjects/ColorTransitFlow/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5g6s4i52/obj/x86_64/libswappywrapper.so	f75cefbe3a0c550e
+53	1266	8112823966794673	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ed7964c1cb68c256
+35	1273	8112823966829851	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a4df42c49c64224a
+44	1271	8112823966835018	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	42f6d8e2a3f27add
+73	1275	8112823966905228	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	237cb8c5d71ba83b
+23	1294	8112823967108323	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3009b66ed076a159
+62	1367	8112823967846281	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9ae7eb50ecbeb443
+85	1347	8112823967614650	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f700f88eaef3989f
+1404	1530	8112823969427197	D:/AgentUnityProjects/ColorTransitFlow/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5g6s4i52/obj/x86_64/libgame.so	6aa4c6abf119172e
+144	364	8122452865676632	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	af9e72be1bf701bb
+365	676	8122452868020357	D:/AgentUnityProjects/ColorTransitFlow/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5g6s4i52/obj/x86_64/libswappywrapper.so	f75cefbe3a0c550e
+13	1884	8122452880618341	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	42f6d8e2a3f27add
+57	2002	8122452881895259	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a4df42c49c64224a
+107	2105	8122452882392053	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ed7964c1cb68c256
+36	2126	8122452883173672	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3009b66ed076a159
+82	2212	8122452883849934	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	237cb8c5d71ba83b
+132	2257	8122452884489739	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f700f88eaef3989f
+119	2527	8122452887014380	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9ae7eb50ecbeb443
+24	2633	8122452888017915	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c54277f5b5f2ec55
+2633	3029	8122452891762011	D:/AgentUnityProjects/ColorTransitFlow/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5g6s4i52/obj/x86_64/libgame.so	6aa4c6abf119172e

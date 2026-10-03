@@ -1,0 +1,235 @@
+# =========================================================
+# UNITY
+# =========================================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset Store tools
+[Aa]ssets/AssetStoreTools*
+
+# Unity generated files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+sysinfo.txt
+
+
+# =========================================================
+# UNITY PACKAGE MANAGER
+# =========================================================
+
+# Keep Packages/manifest.json and packages-lock.json
+# Do NOT ignore the entire Packages folder
+
+
+# =========================================================
+# VISUAL STUDIO / VS CODE / RIDER
+# =========================================================
+
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+*.sln.iml
+
+
+# =========================================================
+# ANDROID / GRADLE
+# =========================================================
+
+.gradle/
+gradle/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Android build outputs
+*.apk
+*.aab
+*.apks
+
+# Android emulator / AVD files
+.android/
+.android-avd/
+*.avd/
+
+# Common emulator/generated files
+*.qcow2
+*.qcow2.lock
+*.img.lock
+*.lck
+
+# Android generated build folders
+**/build/
+**/.gradle/
+**/.cxx/
+**/.externalNativeBuild/
+
+
+# =========================================================
+# WEBGL BUILDS
+# =========================================================
+
+[Bb]uild/
+[Bb]uilds/
+
+# Uncomment if you create custom WebGL output folders
+# WebGLBuild/
+# WebGLBuilds/
+
+
+# =========================================================
+# XCODE / IOS
+# =========================================================
+
+xcuserdata/
+DerivedData/
+
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+*.ipa
+
+
+# =========================================================
+# MACOS
+# =========================================================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+
+# =========================================================
+# WINDOWS
+# =========================================================
+
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+
+# =========================================================
+# TEMPORARY / CACHE / BACKUP FILES
+# =========================================================
+
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*.log
+
+~$*
+
+
+# =========================================================
+# CRASH / DIAGNOSTIC FILES
+# =========================================================
+
+crashlytics-build.properties
+
+
+# =========================================================
+# UNITY PACKAGES / EXPORTS
+# =========================================================
+
+*.unitypackage
+
+
+# =========================================================
+# SIGNING KEYS / CERTIFICATES
+# =========================================================
+
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.cer
+*.crt
+*.key
+
+
+# =========================================================
+# ENVIRONMENT / SECRETS
+# =========================================================
+
+.env
+.env.*
+!.env.example
+
+secrets.json
+credentials.json
+
+
+# =========================================================
+# FIREBASE
+# =========================================================
+
+# Enable these if the files contain project credentials
+google-services.json
+GoogleService-Info.plist
+
+
+# =========================================================
+# NODE / NPM
+# Useful if project contains WebGL/backend tooling
+# =========================================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# =========================================================
+# PYTHON
+# Useful if project contains utility scripts
+# =========================================================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+
+# =========================================================
+# DO NOT IGNORE UNITY META FILES
+# =========================================================
+
+# Unity .meta files MUST remain in Git.
+# Do not add *.meta here.
